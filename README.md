@@ -1,9 +1,9 @@
-<h1 align="center">Hi ✌️, I'm Deepak Kumar</h1>
+<h1 align="center">Hey ! ✌️, I'm Deepak Kumar</h1>
 <h2 align="center">Welcome To My Github. 😎</h2>
 <h3 align="center">Committing to excellence, one push at a time. 💻✨</h3>
 <br>
 
-- 🌱 I’m currently learning DSA|React.js
+- 🌱 I’m currently learning DSA | React.js
 
 - ⚡ Quote - Living the 'git' life, one commit at a time. 🌱🔀
 
@@ -11,22 +11,15 @@
 <hr>
 <h3 align="left"> My Coding profile's:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepak-kumar-630930226" target="blank"><img align="center"
-   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-   alt="deepak-kumar-630930226" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/cryo3310" target="blank"><img align="center"
-   src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cryo3310" height="30"
-   width="40" /></a>
-<a href="https://www.hackerrank.com/cryo3310" target="blank"><img align="center"
-   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-   alt="cryo3310" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deegetter33" target="blank"><img align="center"
-   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-   alt="deegetter33" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<deegetter33>/profile" target="blank"><img align="center"
-   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-   alt="<deegetter33>/profile" height="30" width="40" /></a>
-<a href="https://www.naukri.com/code360/profile/deepak_345" target="blank"><img align="center" src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="user/deepak_345" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepak-kumar-630930226" target="_blank"><img align="center"
+   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-kumar-630930226" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/cryo3310" target="_blank"><img align="center"
+   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cryo3310" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/deegetter33" target="_blank"><img align="center"
+   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deegetter33" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/deegetter33/" target="_blank"><img align="center" 
+   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/deegetter33" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/deepak_345" target="_blank"><img align="center" src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="user/deepak_345" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
